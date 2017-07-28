@@ -14,16 +14,16 @@ When the robocontrol script is run it hooks into the windows HID controller and 
 ### Usage
 All controls can be configured via the configuration file (ext .ini).
 
-*Quit: Esc
-*Toggle Hook: Scroll Lock
-*Display Commands: Pause/Break
-*Increase Speed: Home
-*Decrease Speed: Insert
-*Dummy Point: End
-*Drop Point: Delete
-*Y-: Up
-*Y+: Down
-*X-: Left
-*X+: Right
-*Z-: Prior (Page Up)
-*Z+: Next (Page Down)
+* Quit: Esc
+* Toggle Hook: Scroll Lock
+* Display Commands: Pause/Break
+* Increase Speed: Home
+* Decrease Speed: Insert
+* Dummy Point: End
+* Drop Point: Delete
+* Y-: Up
+* Y+: Down
+* X-: Left
+* X+: Right
+* Z-: Prior (Page Up)
+* Z+: Next (Page Down)
